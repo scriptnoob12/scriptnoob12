@@ -1,5 +1,3 @@
-### Welcome to my profile Github
-
 <!--
 **scriptnoob12/scriptnoob12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ![linkedinheadergithub](https://user-images.githubusercontent.com/58433889/120946343-7f0f9b00-c712-11eb-9df7-6e1b5cf8e564.png)
 
 <br><br>
