@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![linkedinheader2](https://user-images.githubusercontent.com/58433889/120945425-50dc8c00-c70f-11eb-9a44-d6dd5f9a939d.png)
 
-¿Quien soy?
+
+
+
+
+![quiensoy](https://user-images.githubusercontent.com/58433889/120946097-a74aca00-c711-11eb-81e4-bd9d9850f10a.png)
+
 Mi nombre es Maximiliano Jesús Contrera, vivo en Rosario Argentina. Soy Full Stack Web Developer, tengo las siguientes skills:
 > HTML.
 > CSS / LESS / SASS
@@ -25,6 +29,7 @@ Mi nombre es Maximiliano Jesús Contrera, vivo en Rosario Argentina. Soy Full St
 > Socket.io
 > ReactJS - Redux
 > PostgreSQL - Sequelize - SQL
+
 > C# (Videojuegos / Unity) 
 > Testing: Jest
 > Diseño básico Inkscape
@@ -52,3 +57,6 @@ Tengo 22 años, me apasiona programar. Programo desde los 11 años empecé desar
 
 Una frase que me describe totalmente:
 « El único modo de salir de una caja cerrada es inventar la manera de salir. » (Jeff Bezos)
+
+
+[Linkedin] - https://www.linkedin.com/in/maximiliano-jesus-contrera/
