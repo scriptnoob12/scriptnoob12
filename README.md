@@ -28,16 +28,17 @@ Here are some ideas to get you started:
 </p>
 
 >>
- * HTML.
- * CSS / LESS / SASS
- * NodeJS - Express
- * Socket.io
- * ReactJS - Redux
- * PostgreSQL - Sequelize - SQL
- * C# (Videojuegos / Unity) 
- * Testing: Jest
- * Diseño básico Inkscape
- * TypeScript
+* HTML5 | CSS3 (SASS - LESS)
+* NodeJS | Express
+* Sequelize | PostgreSQL | SQL
+* React | Redux
+* Jest
+* C# - Unity 3D
+* Boostrap
+* WordPress
+* Socket.io
+* Metodología Ágil Scrum
+* Diseño
 
 <br>
 <p align="center">
