@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 * Socket.io
 * Metodología Ágil Scrum
 * Diseño
+* Angular
 
 <br>
 <p align="center">
@@ -68,7 +69,9 @@ Here are some ideas to get you started:
   <img src="https://i.ibb.co/1nyrmbR/sobremi.png"/>
 </p>
 
-<i> Tengo 22 años, me apasiona programar. Programo desde los 10 años empecé desarrollando servidores para el videojuego Grand Theft Auto San Andreas MP, luego de apoco me meti en el mundo web pero muy ligeramente. De apoco fui aprendiendo diferentes tecnologías y de apoco fui aprendiendo del mundo IT, empecé a intentar crear videojuegos en Unity 3d. Luego empecé a estudiar Ing, pero tomé la decición de ser autodidacta. Este año me convertí en Full Stack Web Developer (SoyHenry).
+<i> Tengo 22 años, me apasiona programar. Programo desde los 10 años empecé desarrollando servidores para el videojuego Grand Theft Auto San Andreas MP, luego de apoco me meti en el mundo web pero muy ligeramente. De apoco fui aprendiendo diferentes tecnologías y de apoco fui aprendiendo del mundo IT, empecé a intentar crear videojuegos en Unity 3d. Luego empecé a estudiar Ing, pero tomé la decición de ser autodidacta. En 2021 obtuve la certificación de Full Stack Web Developer en SoyHenry.
+  
+  Actualmente  pertenezco al equipo de desarrollo de BALANZ Arg.
 
 
 Una frase que siento que describe totalmente: <br>
