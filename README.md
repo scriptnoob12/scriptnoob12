@@ -29,17 +29,21 @@ Here are some ideas to get you started:
 
 >>
 * HTML5 | CSS3 (SASS - LESS)
-* NodeJS | Express
-* Sequelize | PostgreSQL | SQL
+* NodeJS | Express | Fastify
+* Sequelize | PostgreSQL | SQL | Mongoose
 * React | Redux
 * Jest
 * C# - Unity 3D
-* Boostrap
+* Bootstrap
 * WordPress
 * Socket.io
 * Metodología Ágil Scrum
 * Diseño
 * Angular
+* Ionic
+* Docker - Compose - Kubernetes
+* KendoUI
+
 
 <br>
 <p align="center">
